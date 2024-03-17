@@ -20,8 +20,9 @@ You can view a live demo of the project [here](https://saugataghosh24.github.io/
 
 ## Screenshots
 
-![amazon-clone-complete-ss](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/6df6d1ea-4492-4f48-9c3a-bac99b736c99)
 Complete screenshot in 540*720 pixel
+![amazon-clone-complete-ss](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/6df6d1ea-4492-4f48-9c3a-bac99b736c99)
+
 
 ![ss1](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/1b864fa3-0443-4ce0-907a-81fcef48959a)
 ![ss2](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/9b349a70-37f8-4b8c-92b7-57f750cd3965)

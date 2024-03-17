@@ -12,7 +12,7 @@ This project is a clone of the Amazon website's frontend, developed using HTML a
 
 ## Demo
 
-You can view a live demo of the project [here](demo-link).
+You can view a live demo of the project [here](https://saugataghosh24.github.io/Amazon-Clone/).
 
 ## Features
 
@@ -22,10 +22,18 @@ You can view a live demo of the project [here](demo-link).
 
 ## Screenshots
 
+https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/6df6d1ea-4492-4f48-9c3a-bac99b736c99
+
+https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/b56f7c45-66e4-4650-9376-f3af66c0ff24
+
+https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/426fcd9b-e789-4f1d-b756-bd018e881705
+
+https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/85aeb500-6e12-4265-96e3-bf351fb1ccd4
+
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/your-username/amazon-clone.git`.
+1. Clone the repository to your local machine using `https://github.com/Saugataghosh24/Amazon-Clone.git`.
 2. Navigate into the project directory.
 3. Open `index.html` in your preferred web browser.

@@ -21,12 +21,13 @@ You can view a live demo of the project [here](https://saugataghosh24.github.io/
 ## Screenshots
 
 ![amazon-clone-complete-ss](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/6df6d1ea-4492-4f48-9c3a-bac99b736c99)
+Complete screenshot in 540*720 pixel
 
-![amazon-clone-ss1](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/b56f7c45-66e4-4650-9376-f3af66c0ff24)
+![ss1](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/1b864fa3-0443-4ce0-907a-81fcef48959a)
+![ss2](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/9b349a70-37f8-4b8c-92b7-57f750cd3965)
+![ss3](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/35375435-207e-446e-91cb-f9b8ef681602)
+![ss4](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/21a126b4-1b2d-4453-bb0b-b4169684eec5)
 
-![amamzon-clone-ss2](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/426fcd9b-e789-4f1d-b756-bd018e881705)
-
-![amazon-clone-ss3](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/85aeb500-6e12-4265-96e3-bf351fb1ccd4)
 
 ## Getting Started
 

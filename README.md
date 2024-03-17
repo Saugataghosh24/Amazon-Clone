@@ -7,8 +7,6 @@ This project is a clone of the Amazon website's frontend, developed using HTML a
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -22,13 +20,13 @@ You can view a live demo of the project [here](https://saugataghosh24.github.io/
 
 ## Screenshots
 
-https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/6df6d1ea-4492-4f48-9c3a-bac99b736c99
+![amazon-clone-complete-ss](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/6df6d1ea-4492-4f48-9c3a-bac99b736c99)
 
-https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/b56f7c45-66e4-4650-9376-f3af66c0ff24
+![amazon-clone-ss1](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/b56f7c45-66e4-4650-9376-f3af66c0ff24)
 
-https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/426fcd9b-e789-4f1d-b756-bd018e881705
+![amamzon-clone-ss2](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/426fcd9b-e789-4f1d-b756-bd018e881705)
 
-https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/85aeb500-6e12-4265-96e3-bf351fb1ccd4
+![amazon-clone-ss3](https://github.com/Saugataghosh24/Amazon-Clone/assets/135034312/85aeb500-6e12-4265-96e3-bf351fb1ccd4)
 
 ## Getting Started
 

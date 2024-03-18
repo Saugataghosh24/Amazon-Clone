@@ -254,7 +254,8 @@
 #box1{
     height: 18.75rem;
     width: 20.625rem;
-    margin:0.625rem 0rem 1.25rem 0.625rem;
+    /* margin:0.625rem 0rem 1.25rem 0.625rem; */
+    margin:0rem 0rem 1.25rem 0.625rem;
     background-image: url("box1.jpg");
     background-size: cover;
 }
@@ -262,7 +263,7 @@
 #box2{
     height: 18.75rem;
     width: 20.625rem;
-    margin:0.625rem 0rem 1.25rem 0.625rem;
+    margin:0rem 0rem 1.25rem 0.625rem;
     background-image: url("box2.jpg");
     background-size: cover;
 }
@@ -270,15 +271,16 @@
 #box3{
     height: 18.75rem;
     width: 20.625rem;
-    margin:0.625rem 0rem 1.25rem 0.625rem;
+    margin:0rem 0rem 1.25rem 0.625rem;
     background-image: url("box3.jpg");
     background-size: cover;
 }
 
 #box4{
-    height: 18.75rem;
+    /* height: 18.75rem; */
+    height: 17rem;
     width: 20.625rem;
-    margin:0.625rem 0rem 1.25rem 0.625rem;
+    margin:0rem 0rem 1.25rem 0.625rem;
     background-image: url("box4.jpg");
     background-size: cover;
 }
@@ -286,7 +288,7 @@
 #box5{
     height: 18.75rem;
     width: 20.625rem;
-    margin:0.625rem 0rem 1.25rem 0.625rem;
+    margin:0rem 0rem 1.25rem 0.625rem;
     background-image: url("box5.jpg");
     background-size: cover;
 }
@@ -294,7 +296,7 @@
 #box6{
     height: 18.75rem;
     width: 20.625rem;
-    margin:0.625rem 0rem 1.25rem 0.625rem;
+    margin:0rem 0rem 1.25rem 0.625rem;
     background-image: url("box6.jpg");
     background-size: cover;
 }
@@ -302,7 +304,7 @@
 #box7{
     height: 18.75rem;
     width: 20.625rem;
-    margin:0.625rem 0rem 1.25rem 0.625rem;
+    margin:0rem 0rem 1.25rem 0.625rem;
     background-image: url("box7.jpg");
     background-size: cover;
 }
@@ -310,7 +312,7 @@
 #box8{
     height: 18.75rem;
     width: 20.625rem;
-    margin:0.625rem 0rem 1.25rem 0.625rem;
+    margin:0rem 0rem 1.25rem 0.625rem;
     background-image: url("box8.jpg");
     background-size: cover;
 }

@@ -456,3 +456,11 @@
 {
     html{font-size: 4px;}
 }
+@media(max-width: 440px) and (min-width: 400px)
+{
+    html{font-size: 4.5px;}
+}
+@media(max-width: 300px) and (min-width: 200px)
+{
+    html{font-size: 3px;}
+}

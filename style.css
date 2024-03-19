@@ -344,11 +344,9 @@
     margin-top: 2.5rem;
 }
 
-#foot2a p, #foot2b p, #foot2c p, #foot2d p{
+#foot2a ul, #foot2b ul, #foot2c ul, #foot2d ul{
     font-size: 1rem;
     font-weight: 37.5rem;
-    padding-left: 2.5rem;
-    margin-bottom: 0.9375rem;
 }
 
 #foot2a li, #foot2b li, #foot2c li, #foot2d li{
